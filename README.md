@@ -2,7 +2,7 @@
 I have used Excel Pivotable and charts for creating interactive dashboard
 
 # Task 
-Creating An interactive Dashboard providing insights of Bike sales as per demogarapics, region,distance driven range
+Creating An interactive Dashboard providing insights of Bike sales as per demographics, region,distance driven range
 
 # Step Involved for Analysis
 
